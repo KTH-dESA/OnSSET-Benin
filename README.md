@@ -7,7 +7,7 @@ This repository contains the 2017 version of the OnSSET tool, implemented in Pyt
 1) **onsset.py**. This file contains all the methods used to perform the calculations of the OnSSET tool.
 2) **runner.py**. This file is used to read the input files, and use the methods defined in onsset.py to calculate the least-cost investment scenarios.
 3) **Specs.xlsx**. This input file contains key data relating to the country or region to be studied.
-4) **Benin.csv**. This input file contains the GIS data extracted to .csv format required to run the analysis, for Togo.
+4) **BeninCalibrated.csv**. This input file contains the GIS data extracted to .csv format required to run the analysis for Benin, after the calibration step (6a below).
 
 ### How-to-use Instructions
 
